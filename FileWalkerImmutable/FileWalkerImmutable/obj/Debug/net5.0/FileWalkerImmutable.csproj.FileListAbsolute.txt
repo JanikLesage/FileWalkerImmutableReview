@@ -1,0 +1,16 @@
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\bin\Debug\net5.0\FileWalkerImmutable.exe
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\bin\Debug\net5.0\FileWalkerImmutable.deps.json
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\bin\Debug\net5.0\FileWalkerImmutable.runtimeconfig.json
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\bin\Debug\net5.0\FileWalkerImmutable.runtimeconfig.dev.json
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\bin\Debug\net5.0\FileWalkerImmutable.dll
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\bin\Debug\net5.0\FileWalkerImmutable.pdb
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.AssemblyInfoInputs.cache
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.AssemblyInfo.cs
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.csproj.CoreCompileInputs.cache
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.sourcelink.json
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.dll
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\refint\FileWalkerImmutable.dll
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.pdb
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\FileWalkerImmutable.genruntimeconfig.cache
+C:\Programming\C#\FileWalkerImmutableReview\FileWalkerImmutable\FileWalkerImmutable\obj\Debug\net5.0\ref\FileWalkerImmutable.dll
