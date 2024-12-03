@@ -4,8 +4,10 @@ using System.Collections.Immutable;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FileWalkerImmutable.Components;
+using FileWalkerImmutable.Observer;
 
-namespace FileWalkerImmutable
+namespace FileWalkerImmutable.System
 {
     class FileSystem
     {

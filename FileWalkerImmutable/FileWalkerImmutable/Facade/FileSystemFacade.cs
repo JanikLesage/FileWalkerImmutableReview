@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FileWalkerImmutable.Components;
+using FileWalkerImmutable.Observer;
+using FileWalkerImmutable.System;
 
-namespace FileWalkerImmutable
+namespace FileWalkerImmutable.Facade
 {
     public class FileSystemFacade
     {

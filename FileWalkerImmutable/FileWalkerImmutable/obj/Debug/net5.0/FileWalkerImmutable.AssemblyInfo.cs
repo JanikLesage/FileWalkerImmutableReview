@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileWalkerImmutable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ccd47eb86974e0a0120befe9405294f8aff3cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe072d8afc3a1e8582edf8e2ba999762985eb37e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileWalkerImmutable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileWalkerImmutable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
