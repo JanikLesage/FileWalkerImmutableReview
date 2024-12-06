@@ -8,43 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c64fef87-046c-4d85-97e9-2e5efe14ad3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FileWalkerImmutable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FileWalkerImmutable/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Components/File.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Components/File.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Components/Folder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Components/Folder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Components/IComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Components/IComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Components/IFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Components/IFile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Components/IFolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Components/IFolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Facade/FacadeNotificationObserver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Facade/FacadeNotificationObserver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Facade/FileSystemFacade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Facade/FileSystemFacade.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/FileSystem/FileSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/System/FileSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/Observer/IComponentObserver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/Observer/IComponentObserver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/bin/Debug/net5.0/FileWalkerImmutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/bin/Debug/net5.0/FileWalkerImmutable.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/bin/Debug/net5.0/FileWalkerImmutable.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/bin/Debug/net5.0/FileWalkerImmutable.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/bin/Debug/net5.0/FileWalkerImmutable.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/bin/Debug/net5.0/FileWalkerImmutable.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/FileWalkerImmutable.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/ref/FileWalkerImmutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/ref/FileWalkerImmutable.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/refint/FileWalkerImmutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/Debug/net5.0/refint/FileWalkerImmutable.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutable.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutable.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutable.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutable.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutable.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutableTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutableTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutableTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/bin/Debug/net8.0/FileWalkerImmutableTest.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/FileWalkerImmutableTest.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/ref/FileWalkerImmutableTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/ref/FileWalkerImmutableTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/refint/FileWalkerImmutableTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/Debug/net8.0/refint/FileWalkerImmutableTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileWalkerImmutable/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/FileWalkerImmutable/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../FileWalkerImmutableTest/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.FileWalkerImmutable">
+  <component name="RunManager">
     <configuration name="FileWalkerImmutable" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />

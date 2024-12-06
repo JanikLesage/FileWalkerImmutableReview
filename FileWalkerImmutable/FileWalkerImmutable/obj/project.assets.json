@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mrjan\\.nuget\\packages\\": {}
+    "C:\\Users\\Janik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,12 +16,12 @@
       "projectUniqueName": "C:\\Programming\\C#\\FileWalkerImmutableReview\\FileWalkerImmutable\\FileWalkerImmutable\\FileWalkerImmutable.csproj",
       "projectName": "FileWalkerImmutable",
       "projectPath": "C:\\Programming\\C#\\FileWalkerImmutableReview\\FileWalkerImmutable\\FileWalkerImmutable\\FileWalkerImmutable.csproj",
-      "packagesPath": "C:\\Users\\mrjan\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Janik\\.nuget\\packages\\",
       "outputPath": "C:\\Programming\\C#\\FileWalkerImmutableReview\\FileWalkerImmutable\\FileWalkerImmutable\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\mrjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Janik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,5 +1,3 @@
-using System;
-using System.Collections.Immutable;
 using NUnit.Framework;
 using FileWalkerImmutable.Facade;
 using FileWalkerImmutable.Components;
@@ -64,7 +62,7 @@ namespace FileWalkerImmutableTest
             IComponent file = fileSystemFacade.GetComponentByPath(fruitFolder, "banane.txt");
             //Assert
             // Should trigger an assertion failure
-            Assert.Throws()
+            Assert.IsNull(file);
         }
         [Test]
         public void GetFolderFromRootButNullFile()
@@ -89,7 +87,6 @@ namespace FileWalkerImmutableTest
             IComponent file = fileSystemFacade.GetComponentByPath(fruitFolder, null);
             //Assert
             Assert.IsNotNull(file);
-            Assert.Throws()
         }
     }
 }
